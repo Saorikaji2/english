@@ -30,7 +30,9 @@
 - Adult, practical, natural English rather than textbook-style material
 - Reading content should be based on fresh web sources but synthesised, not copied
 - New or difficult vocabulary should include Japanese meanings
-- Prefer hover/tap vocabulary definitions when the interface supports them
+- Prefer app-native interactive vocabulary UI when it is actually supported
+- Do not use raw HTML such as `<details>`, `<summary>`, `<abbr>` or other unsupported tags in ChatGPT messages; these may render literally in the app
+- If native tap/hover vocabulary UI is unavailable, use clean plain-text or Markdown fallback formatting rather than pretending the words are interactive
 - Tests should be interactive and varied
 - Sometimes use image-based description tasks
 - Do not reveal test answers before completion
