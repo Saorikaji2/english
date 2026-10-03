@@ -30,9 +30,11 @@
 - Adult, practical, natural English rather than textbook-style material
 - Reading content should be based on fresh web sources but synthesised, not copied
 - New or difficult vocabulary should include Japanese meanings
-- Prefer app-native interactive vocabulary UI when it is actually supported
-- Do not use raw HTML such as `<details>`, `<summary>`, `<abbr>` or other unsupported tags in ChatGPT messages; these may render literally in the app
-- If native tap/hover vocabulary UI is unavailable, use clean plain-text or Markdown fallback formatting rather than pretending the words are interactive
+- Reading days should use the native interactive reader itself when that capability is available in ChatGPT
+- Hard requirement for reading presentation: **Do not approximate the reading with Markdown tooltips, footnotes, brackets or a vocab table; build the interactive reader itself.**
+- In the interactive reader, likely-unfamiliar English words should be visibly underlined/annotated and support hover/click to reveal a Japanese meaning
+- Do not use raw HTML such as `<details>`, `<summary>`, `<abbr>` or other unsupported tags in ordinary ChatGPT messages
+- If the native interactive reader is genuinely unavailable in the current execution context, say so clearly rather than silently replacing it with a different format
 - Tests should be interactive and varied
 - Sometimes use image-based description tasks
 - Do not reveal test answers before completion
