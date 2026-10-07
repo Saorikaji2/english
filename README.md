@@ -3,7 +3,7 @@
 This repository is the persistent learning record for Saori's daily English practice with ChatGPT.
 
 ## Schedule
-- Daily session at **8:00 am Australia/Melbourne time**.
+- Daily session at **8:00 am in Saori's current local timezone**. For the current Japan stay, use **8:00 am Asia/Tokyo (Numazu, Japan)**.
 - First scheduled session: **Reading**.
 - On weekdays, alternate between **Reading** and **Test** sessions.
 - **Saturday and Sunday are always Reading days**; never schedule a test on weekends.
