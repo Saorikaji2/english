@@ -31,10 +31,10 @@ Prioritise:
 
 ## Session design
 ### Reading days
-Create an engaging, adult, level-appropriate reading synthesised from fresh web sources. Vocabulary likely to be unfamiliar should include a Japanese meaning via hover/tap UI when supported, with a compact fallback if not. Include light comprehension or language-noticing prompts without turning the reading into a formal test.
+Create an engaging, adult, level-appropriate reading synthesised from fresh web sources. Use the **Chappie workspace app** for the interactive reading UI when callable. Vocabulary likely to be unfamiliar should reveal a Japanese meaning on hover/click. If Chappie is unavailable in a run, state that limitation clearly rather than pretending the interaction exists. Include light comprehension or language-noticing prompts without turning the reading into a formal test.
 
 ### Test days
-Create interactive exercises using input fields and multiple-choice answers when supported. Test recent readings, recycled vocabulary, and known weak points. Vary the exercise style. Sometimes use a relevant image, short visual, object, scene, place, or artwork and ask Saori to describe an aspect of it in English.
+Use **Chappie** for interactive exercises with input fields and multiple-choice answers when callable. Test recent readings, recycled vocabulary, and known weak points. Vary the exercise style. Sometimes use a relevant image, short visual, object, scene, place, or artwork and ask Saori to describe an aspect of it in English.
 
 Do not reveal test answers before completion. After completion, show the answers and also provide them in a copy-friendly format so Saori can paste them back into chat for review and explanation.
 
