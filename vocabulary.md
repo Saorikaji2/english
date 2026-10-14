@@ -57,3 +57,23 @@ Entries below were introduced in assigned lessons and remain **NEW / unreviewed*
 - **sprout** — 発芽する. Example: Most of the beans should sprout in warm soil. *Status: new (unreviewed).*
 - **harvest** — 収穫. Example: She waited for a dry day to harvest the seed pods. *Status: new (unreviewed).*
 
+## 2026-10-15 Reading 6 — Hoverflies and Beneficial Insects
+
+- **aphids** — アブラムシ. Example: A few aphids appeared on the broad bean shoots. *Status: new (unreviewed).*
+- **hovering** — 空中で静止するように飛んでいる. Example: A small fly was hovering above the calendula flower. *Status: new (unreviewed).*
+- **hoverfly** — ハナアブ. Example: The hoverfly visited several flowers beside the beans. *Status: new (unreviewed).*
+- **nectar** — 花の蜜. Example: Adult hoverflies drink nectar from open flowers. *Status: new (unreviewed).*
+- **pollen** — 花粉. Example: Pollen gathered on the insect as it moved between flowers. *Status: new (unreviewed).*
+- **pollination** — 受粉. Example: Pollination helps many flowering plants produce fruit or seed. *Status: new (unreviewed).*
+- **larvae** — 幼虫（larva の複数形）. Example: The larvae of some hoverfly species eat aphids. *Status: new (unreviewed).*
+- **overlooked** — 見落とされがちな. Example: These small helpful insects are easily overlooked. *Status: new (unreviewed).*
+- **sweet alyssum** — スイートアリッサム. Example: She grew sweet alyssum near the vegetable beds. *Status: new (unreviewed).*
+- **calendula** — キンセンカ. Example: Calendula brought bright colour to the garden border. *Status: new (unreviewed).*
+- **accessible blooms** — 昆虫が蜜や花粉を利用しやすい花. Example: Accessible blooms provide food for small pollinating insects. *Status: new (unreviewed).*
+- **steady supply** — 安定した供給. Example: Flowers planted for different seasons can offer a steady supply of nectar. *Status: new (unreviewed).*
+- **natural pest control** — 天敵を利用した害虫防除. Example: Welcoming predators is one part of natural pest control. *Status: new (unreviewed).*
+- **predators** — 捕食者. Example: Some garden predators feed on aphids. *Status: new (unreviewed).*
+- **guarantee** — 保証する. Example: Planting flowers cannot guarantee an aphid-free garden. *Status: new (unreviewed).*
+- **beneficial insects** — 益虫. Example: A mixture of flowering plants can support beneficial insects. *Status: new (unreviewed).*
+- **breeze** — そよ風. Example: The calendula flowers moved gently in the morning breeze. *Status: new (unreviewed).*
+
