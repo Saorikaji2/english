@@ -77,3 +77,24 @@ Entries below were introduced in assigned lessons and remain **NEW / unreviewed*
 - **beneficial insects** — 益虫. Example: A mixture of flowering plants can support beneficial insects. *Status: new (unreviewed).*
 - **breeze** — そよ風. Example: The calendula flowers moved gently in the morning breeze. *Status: new (unreviewed).*
 
+## 2026-10-17 Reading 7 — The Garden That Catches the Rain
+
+- **heavy shower** — 激しいにわか雨. Example: A heavy shower sent water across the stone path. *Status: new (unreviewed).*
+- **drain** — 排水口. Example: Leaves had blocked the drain beside the driveway. *Status: new (unreviewed).*
+- **rain garden** — 雨庭／雨水を一時的に受け止めて地面に浸透させる花壇. Example: The rain garden catches water from the path after storms. *Status: new (unreviewed).*
+- **shallow** — 浅い. Example: The shallow depression fills briefly after rain. *Status: new (unreviewed).*
+- **runoff** — 雨水などの表面流出. Example: Runoff from the roof flowed towards the lawn. *Status: new (unreviewed).*
+- **soak into** — 地面などに染み込む. Example: The water can soak into the soil overnight. *Status: new (unreviewed).*
+- **gentle slope** — 緩やかな傾斜. Example: A gentle slope directs water away from the house. *Status: new (unreviewed).*
+- **underground pipes** — 地中の配管. Example: Check for underground pipes before digging. *Status: new (unreviewed).*
+- **foundations** — 建物の基礎. Example: The garden must not trap water beside the house foundations. *Status: new (unreviewed).*
+- **basin** — くぼ地、浅い受け皿状の場所. Example: The planted basin catches rainwater briefly. *Status: new (unreviewed).*
+- **native flowers** — 在来種の花. Example: Native flowers can support local pollinating insects. *Status: new (unreviewed).*
+- **cope with** — 〜に対応する、〜に耐える. Example: Choose plants that cope with both wet and dry soil. *Status: new (unreviewed).*
+- **modest layer** — 控えめな厚さの層. Example: She spread a modest layer of mulch. *Status: new (unreviewed).*
+- **inlet** — 流入口. Example: The inlet became blocked with fallen leaves. *Status: new (unreviewed).*
+- **erosion** — 侵食（土が水などで削られること）. Example: Plant roots can reduce erosion on the slope. *Status: new (unreviewed).*
+- **narrow strip** — 細長い一画. Example: A narrow strip beside the path became a flower border. *Status: new (unreviewed).*
+- **absorbed** — 吸収した. Example: The soil has absorbed most of the rainfall. *Status: new (unreviewed).*
+- **muddy puddles** — 泥の混じった水たまり. Example: After the storm, muddy puddles covered the path. *Status: new (unreviewed).*
+- **establish** — 根付く、定着する. Example: Young plants need regular care until they establish. *Status: new (unreviewed).*
